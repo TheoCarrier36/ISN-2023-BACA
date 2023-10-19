@@ -1,0 +1,15 @@
+BACKLOG
+
+Creer le labirinthe
+Deplacer le joeur
+
+Creer monstre
+Creer tresor
+Creer passage
+
+Deplacer monstre_alea
+Depalcer monstre_bot (position du jouer a prendre en compte)
+
+Interactions monstre-joeur
+
+afficher plateau (actualisation)
