@@ -2,3 +2,18 @@ test de3solei
 
 test de modif de theo
 
+OK:
+Sur le pc, installer git gui ( scm )
+trouver sa cle ssh grace a la commande td 1
+la copier colle au bon endroit
+
+commande utiles
+git clone
+
+nano : lire / modif un fichier
+commit -m "message": mettre a jour 
+ATTENTION pas oublier push 
+
+pull pour recup les fichiers
+ls pour voir tous les fichiers presents
+
