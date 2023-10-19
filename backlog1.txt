@@ -1,7 +1,0 @@
-Créer un plateau de jeu
-Créer les murs du plateau de jeu
-Créer les murs du labyrinthe (Aléatoire)
-Créer un personnage
-Créer un trésor placé au hasard sur le plateau
-Choisir le niveau de difficulté (taille du plateau, nombre de monstre)
-Inventer les règles du jeu
