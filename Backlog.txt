@@ -1,15 +1,23 @@
 BACKLOG
+HC: il manque les priorités
+HC: il manque le backlog de sprint
 
 Creer le labirinthe
+HC: comment?
 Deplacer le joeur
 
 Creer monstre
+HC: c'est à dire?
 Creer tresor
+HC: c'est à dire? il sert à quoi?
 Creer passage
+HC: pour faire quoi?
 
 Deplacer monstre_alea
 Depalcer monstre_bot (position du jouer a prendre en compte)
 
 Interactions monstre-joeur
+HC: c'est à dire?
 
 afficher plateau (actualisation)
+HC: c'est à dire?
