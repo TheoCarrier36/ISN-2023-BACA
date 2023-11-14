@@ -1,0 +1,30 @@
+Sprint 1 :
+ 
+ - Répartition des tâches
+ - coder la classe héros
+ - coder la classe monstre
+ - coder le labyrinthe ainsi que les cases spéciales (trésor, pièges, magiques, passage)
+ - prémices de la version texte
+ - penser à l'interface graphique
+ - modéliser les attques et les points de vie
+
+Sprint 2 : 
+ 
+ - premiers tests des classes rédigées au sprint 1
+ - afficher le labyrinthe sur la version texte, et sur l'ébauche de l'interface graphique 
+   si faite
+ - rattraper le retard s'il y en a
+
+Sprint 3 :
+
+ - afficher le labyrinthe et les cases spéciales dans l'interface graphique
+ - ajouter le héros 
+ - ajouter les monstres
+ - décider des touches au clavier pour jouer
+ - faire une partie
+
+Sprint 4 : 
+
+ - essais finaux
+ - réglages des éventuels bugs
+ - bonus : améliorer l'esthetique
