@@ -1,4 +1,4 @@
-BACKLOG
+BACKLOG GLOBAL
 HC: il manque les priorités
 HC: il manque le backlog de sprint
 
