@@ -23,3 +23,5 @@ ls pour voir tous les fichiers presents
 je suis là
 jibril est la
 >>>>>>> 63e0754da4d157cc657f451a9314ab897e71bbdf
+
+site pour digramme d eclasse : https://online.visual-paradigm.com/drive/#diagramlist:proj=0&dashboard
