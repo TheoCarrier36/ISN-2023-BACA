@@ -1,6 +1,12 @@
-répartition du travail pour l sprint 2 
+SPRINT 2
 
-Jibril, création du labyrinthe
-Théo, création et placement du héro et des personnages
-Soufiane, 
-Aral, 
+Jibril:   - Réaliser les passages (téléportation vers un autre endroit du labyrinthe)
+
+Théo:     - Déplacement des monstres
+          - Les trésors rapport des points (compteur)
+          - Les monstres touchent le heros au contact
+
+Soufiane: - Finir le POM et configuration
+
+Aral:     - Interface graphique
+          - Prise en compte des commandes claviers (déplacement du héros)
