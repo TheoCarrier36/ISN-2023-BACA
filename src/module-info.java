@@ -4,5 +4,5 @@
 /**
  * 
  */
-module projacl {
+module ACL {
 }
