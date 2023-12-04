@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<project name="Projet_ACL_V2" default="Game.Jeu" basedir=".">
+<project name="ISN-2023-BACA" default="projacl.Principal" basedir=".">
     <!-- Sets variables which can later be used. -->
     <!-- The value of a property is accessed via ${} -->
     <property name="src.dir" location="src" />
@@ -27,14 +27,14 @@
 
     <!--Creates the deployable jar file  -->
     <target name="jar" depends="compile">
-        <jar destfile="${dist.dir}\Projet_ACL_V2.jar" basedir="${build.dir}">
+        <jar destfile="${dist.dir}\ISN-2023-BACA.jar" basedir="${build.dir}">
             <manifest>
-                <attribute name="Main-Class" value="Game.Jeu" />
+                <attribute name="Main-Class" value="projacl.Principal" />
             </manifest>
         </jar>
     </target>
 
-    <target name="Game.Jeu" depends="compile, jar">
+    <target name="projacl.Principal" depends="compile, jar">
         <description>Main target</description>
     </target>
     
