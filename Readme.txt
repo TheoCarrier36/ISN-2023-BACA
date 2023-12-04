@@ -1,11 +1,10 @@
 Bonjour Monsieur
 
-Notre jeu basique a pour but de vous faire sortir du labyrinthe, mes touches de comandes sont :
-1 : aller a gauche
-2 : aller en bas
-3 : aller a droite
-5 : aller en haut
+Chaque partie a été réalisé indépendement des autres lors de ce sprint. 
+un fichier de build a été crée.
+Une interphace graphique est fonctionnel
+Les mouvements du héro et des monstres sont gérés.
+Mais aucune partie n'est encore relié.
 
-Afin de lancer le jeu il faut pour l instant telecharger les fichiers situés dans le dossier "projacl" de la branche main.
+Ce sera notre travail pour le dernier sprint afin de livrer un jeu complet fonctionnel depuis git
 
-Bonne chance.
