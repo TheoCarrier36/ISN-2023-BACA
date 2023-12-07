@@ -1,10 +1,9 @@
 Bonjour Monsieur
 
-Chaque partie a été réalisé indépendement des autres lors de ce sprint. 
-un fichier de build a été crée.
-Une interphace graphique est fonctionnel
-Les mouvements du héro et des monstres sont gérés.
-Mais aucune partie n'est encore relié.
+Vous pouvez lancer notre jeu V1 ( sans interface graphique ) depuis git bash
 
-Ce sera notre travail pour le dernier sprint afin de livrer un jeu complet fonctionnel depuis git
+Pour se faire vous devez vous mettre dans le dossier projacl puis utiliser la commande ant -v run,
+Le but est de dplacer le 'H' jusqu'a l'A' sans mourrir au contact de 'S', vous pouvez récupérer le trésor 'T' mais cela est inutile.
+Pour vous déplacer utilisez les touches 1,2,3 et 5
+Bonne chance
 
