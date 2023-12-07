@@ -1,0 +1,13 @@
+Sprint 3
+
+Backlog:
+- possibilité de pouvoir attaquer shrek et/ou le fantôme
+- améliorer le graphisme
+- créer des cases avec téléportation/trou, et/ou un pouvoir supplémentaire
+
+
+Répartition des tâches : 
+- graphisme : Aral
+- attaquer : Théo
+- téléportation/rendre : Jibril
+- pouvoir supplémentaire : Soufiane
